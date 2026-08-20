@@ -1,0 +1,46 @@
+#profil {
+    height:400px;
+    width:400px;
+    border-radius:25px;
+}
+
+#hero {
+    display : flex ;
+    justify-content:center;
+    align-item:center;
+    background-color:green;
+}
+
+.skill {
+    height:300px;
+    align-item:center;
+    justify-content:center;
+    display:flex;
+    margin-between:50px;
+}
+
+.projek {
+    display:flex;
+    align-item:center;
+    justify-content:center;
+}
+
+#projekan {
+    height:400px;
+    width:400px;
+    border-radius:20px;
+}
+
+#html, #css, #js {
+    margin:80px;
+    font-family:sans;
+    background-color:brown;
+    border-radius:10px;
+    height:60px;
+}
+
+.kontak {
+    display:flex;
+    justify-content:center;
+    align-item:center;
+}
